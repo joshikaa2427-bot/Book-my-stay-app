@@ -1,5 +1,4 @@
 import java.util.*;
-
 public class RoomAllocationService {
     private Set<String> allocatedRoomIds;
     private Map<String, Set<String>> assignedRoomsByType;
